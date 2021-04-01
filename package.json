@@ -1,5 +1,5 @@
 {
-  "name": "closest-friend",
+  "name": "@berkbaski/closest-friend",
   "version": "1.0.0",
   "description": "Your closest friend",
   "main": "index.js",
